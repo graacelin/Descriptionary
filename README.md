@@ -1,7 +1,10 @@
-## Post-Jam Update:
-Thank you so much to everyone who has played and rated Descriptionary! A quick update from us: the game is now playable in browser! Descriptionary is best enjoyed in Full Screen and with Hardware Acceleration On in browser settings, so if your game is lagging a little that might just fix it! 
+# Post Jam Update - We Won!!
+Thank you so much to everyone who has played and rated Descriptionary! We're so grateful for all the support the GMTK community has given us, it's absolutely unreal to see our game be featured in the video alongside many other amazing games. As many have commented, this game was originally designed for a multiplayer experience, and we've decided to continue development to work towards that goal! Stay tuned for more updates from us in the future C:
 
-We're so grateful for all the support the GMTK community has given us, it's absolutely unreal to see our game be featured in the video alongside many other amazing games. As many have commented, this game was originally designed for a multiplayer experience, and we've decided to continue development to work towards that goal! Stay tuned for more updates from us in the future C:
+In the meantime, some relevant links
+- [GMTK Youtube Video](https://www.youtube.com/watch?v=tYxZ_LOlFnU&list=PLc38fcMFcV_vnAZjugCRdKr8_8d_y_rRl&index=1&t=381s)
+- [Official Game Jam submission](https://itch.io/jam/gmtk-2023/rate/2159041)
+- [Play the game here!](https://fingerclap.itch.io/descriptionary)
 
 # It’s Descriptionary - The game where anybunny can draw!
 ![title](./Assets/Art/Previews/title.png)
